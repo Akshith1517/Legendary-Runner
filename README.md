@@ -5,11 +5,10 @@
 ![Main Game](screenshot1.png)
 
 ## 📸 Gameplay Gallery
-| Boss Fight | Shop Menu | Action Shot |
-| :---: | :---: | :---: |
-| ![Boss](screenshot2.png) | ![Shop](screenshot4.png) | ![Action](screenshot3.png) |
+| Boss Fight | Shop Menu | Gameplay 1 | Gameplay 2 |
+| :---: | :---: | :---: | :---: |
+| ![Boss](screenshot2.png) | ![Shop](screenshot4.png) | ![Gameplay](screenshot3.png) | ![Gameplay](screenshot5.png) |
 
-*(See more action in `screenshot5.png`!)*
 
 ## 🎮 Features
 * **2 Unique Bosses:**
