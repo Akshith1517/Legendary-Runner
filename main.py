@@ -573,6 +573,10 @@ while running:
                          save_data(high_score, total_coins, unlocked_gold, unlocked_fire)
 
         if event.type == pygame.KEYDOWN:
+            # --- NEW SCREENSHOT KEY ---
+            if event.key == pygame.K_p:
+                pygame.image.save(screen, "screenshot.png") # Saves directly to your folder!
+                
             if event.key == pygame.K_ESCAPE: 
                 if game_state == "PLAYING" or game_state == "BOSS_FIGHT": game_state = "PAUSED"
                 elif game_state == "PAUSED": game_state = "PLAYING" if active_boss is None else "BOSS_FIGHT"
@@ -834,4 +838,4 @@ while running:
     screen.blit(button_font.render("X", True, (255, 255, 255)), (exit_button_rect.x + 18, exit_button_rect.y + 12))
     pygame.display.flip(); clock.tick(60)
 
-pygame.quit()
+pygame.quit
