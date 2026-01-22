@@ -2,8 +2,14 @@
 
 > An action-packed endless runner game built with Python and Pygame, featuring animated boss fights, a shop system, and parallax backgrounds.
 
-![Game Screenshot](screenshot.png) 
-*(Note: If you have a screenshot, name it 'screenshot.png' and put it in your folder)*
+![Main Game](screenshot1.png)
+
+## 📸 Gameplay Gallery
+| Boss Fight | Shop Menu | Action Shot |
+| :---: | :---: | :---: |
+| ![Boss](screenshot2.png) | ![Shop](screenshot4.png) | ![Action](screenshot3.png) |
+
+*(See more action in `screenshot5.png`!)*
 
 ## 🎮 Features
 * **2 Unique Bosses:**
