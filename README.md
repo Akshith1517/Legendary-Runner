@@ -6,8 +6,7 @@
 *(Note: If you have a screenshot, name it 'screenshot.png' and put it in your folder)*
 
 ## 🎮 Features
-* **3 Unique Bosses:**
-    * *The Tank* (Ground attacks)
+* **2 Unique Bosses:**
     * *The Flyer* (Aerial attacks with animated stingers)
     * *The Berserker* (Rapid-fire attacks)
 * **Dynamic Combat:** Shoot fireballs and dodge projectiles.
